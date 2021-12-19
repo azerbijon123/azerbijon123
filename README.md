@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aaron!
-- 👀 I’m interested in Microservice Architecture & Integration Development, as well as some UI work on the site (React, VUE etc).
+- 👀 I’m interested in Microservice Architecture & Integration Development, as well as some UI work on the side (React, VUE etc).
 - 🌱 I’m currently learning many things, but mainly upskilling myself with React. 
-- 💞️ I’m looking to collaborate on anything purposeful! 
+- 💞️ I’m looking to collaborate on anything that serves a purpose! 
 - 📫 How to reach me... aaron.r.gregory@gmail.com
 
 <!---
